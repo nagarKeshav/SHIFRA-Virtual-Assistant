@@ -33,11 +33,3 @@
 | API Library    | `@google/generative-ai` NPM package  |
 
 ---
-
-## 🔧 Installation & Setup
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/shifra-virtual-assistant.git
-cd shifra-virtual-assistant
