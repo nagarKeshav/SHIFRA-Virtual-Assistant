@@ -1,0 +1,34 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+
+}
+#shifra{
+    height: 65%;
+}
+span{
+   background: linear-gradient( rgb(34, 221, 231),rgb(237,4,125) ); 
+   background-clip: text;
+   color: transparent;
+   font-size: 2vmax;
+}
+button{
+    height: 40px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(79,224,234);
+    box-shadow: 2px 2px 50px rgb(79,224,234);
+}
